@@ -1,0 +1,32 @@
+.body{
+
+    height: 593px;
+    justify-content: center;
+}
+.input{
+    width: 500px;
+    height: 20px;
+    margin: 10px;
+}
+.btn{
+    background-color: rgb(123, 123, 227);
+    height: 50px;
+    font-weight: bolder;
+}
+#disp{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 200px;
+}
+#item{
+margin: 10px;
+}
+#btn{
+    margin-top: 25px;
+    height: 40px;
+    width: 80px;
+    margin-right: 200px;
+    background-color: red;
+}
